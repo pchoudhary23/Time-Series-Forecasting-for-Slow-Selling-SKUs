@@ -1,6 +1,6 @@
 # Time-Series-Forecasting-for-Slow-Selling-SKUs
 
-This project was result of MSA Project Week competition completed along with 3 other batchmates.
+This project was result of MSA Project Week competition completed along with 3 other batchmates: Manoj Parmar, Sunil Ravilla, and Yash Bhole.
 
 The problem statement was to forecast daily sales of slow selling SKUs for a retailer. Train data available was of 5 years and had ~850K records for 575 SKUs.
 
